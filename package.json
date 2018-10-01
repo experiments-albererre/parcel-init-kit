@@ -9,6 +9,7 @@
   "author": "Alber Erre",
   "license": "MIT",
   "devDependencies": {
+    "babel-preset-env": "^1.7.0",
     "parcel-bundler": "^1.10.1"
   }
 }
