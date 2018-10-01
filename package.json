@@ -1,0 +1,14 @@
+{
+  "name": "parcel-init",
+  "version": "1.0.0",
+  "description": "init a parcel instalation with config files",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alber Erre",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.1"
+  }
+}
